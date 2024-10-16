@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ProductDAO {
+public class ProductDao {
 
     // Add Product
     public void addProduct(Product product) throws SQLException {

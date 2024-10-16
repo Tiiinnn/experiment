@@ -5,7 +5,7 @@ public class InventoryManagement {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        ProductDAO productDAO = new ProductDAO();
+        ProductDao productDAO = new ProductDao();
         int choice;
 
         do {
